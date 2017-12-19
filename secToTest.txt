@@ -1,0 +1,3 @@
+
+I'm from the file "secToTest". 
+A string to write
